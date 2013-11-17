@@ -14,8 +14,8 @@ class Constant {
 	static final byte BANDWIDTH_TYPE_MONOPOLIZE=2
 
 	static final byte JOB_MODE_POLL=1
-	static final byte JOB_MODE_PUSH_SYC=2
-	static final byte JOB_MODE_PUSH_ASYC=3
+	static final byte JOB_MODE_PUSH_SYNC=2
+	static final byte JOB_MODE_PUSH_ASYNC=3
 
 	static final byte PAGE_TYPE_UNKNOWN=1
 }
