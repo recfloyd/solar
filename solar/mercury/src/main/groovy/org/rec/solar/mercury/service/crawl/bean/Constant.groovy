@@ -1,4 +1,4 @@
-package org.rec.solar.venus.crawl.bean
+package org.rec.solar.mercury.service.crawl.bean
 
 import groovy.transform.Immutable;
 

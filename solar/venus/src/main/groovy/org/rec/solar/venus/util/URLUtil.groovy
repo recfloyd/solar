@@ -1,4 +1,4 @@
-package org.rec.solar.mercury.util
+package org.rec.solar.venus.util
 
 import groovy.transform.Immutable;
 

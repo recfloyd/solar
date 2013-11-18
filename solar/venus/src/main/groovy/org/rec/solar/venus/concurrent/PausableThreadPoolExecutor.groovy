@@ -1,4 +1,4 @@
-package org.rec.solar.mercury.concurrent
+package org.rec.solar.venus.concurrent
 
 import java.util.concurrent.BlockingQueue
 import java.util.concurrent.RejectedExecutionHandler
