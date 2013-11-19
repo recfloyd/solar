@@ -8,6 +8,7 @@
 	<modules>
 		<module>mercury</module>
 		<module>venus</module>
+		<module>mars</module>
 	</modules>
 
 	<properties>

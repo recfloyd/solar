@@ -7,4 +7,5 @@
 		<version>1.0</version>
 	</parent>
 	<artifactId>mercury</artifactId>
+	<description>领域模型和服务接口</description>
 </project>
